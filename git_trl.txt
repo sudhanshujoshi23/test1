@@ -1,0 +1,9 @@
+clone command - git clone url
+status - git status
+add file - git add filename.extension or git add. for multiple files.
+commit - git commit -m "msg" 
+push - git push origin branchname
+change branch- git checkout branchname
+create branch - git checkout -b branchname or git branch branchname
+delete branch - git branch -d branchname
+
